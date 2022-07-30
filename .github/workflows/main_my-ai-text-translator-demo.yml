@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'my-ai-text-translator-demo'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_17560E7FD66F499B98A816A75C3D8892 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_43226797BC4146C8B06EF8A548D888BF }}
